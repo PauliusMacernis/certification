@@ -1,2 +1,4 @@
-# certification
-Step-by-step certification guide for people targeting career in IT
+# Certification
+Step-by-step certifications guide for people targeting career in IT.
+
+
