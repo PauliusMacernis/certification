@@ -15,4 +15,7 @@ Still learning your domain and industry best practices
   - [Miller Analogies Test (MAT)](http://www.milleranalogies.com/) [*](https://en.wikipedia.org/wiki/Miller_Analogies_Test)
   
 # @TODO: 
-http://www.triplenine.org/HowtoJoin/TestScores.aspx
+http://www.triplenine.org/HowtoJoin/TestScores.aspx  
+https://www.us.mensa.org/join/testscores/qualifying-test-scores/  
+https://www.intertel-iq.org/join-us  
+
