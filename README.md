@@ -1,7 +1,14 @@
-# Certification
-A road map for people targeting career in IT, most likely - a role of a web-software engineer.  
+# Road map
+This road map is suited for people targeting career in IT, probably a position of a web-software engineer and beyond. 
 
-# Roadmap
+# Certification
+Main points of this road map is to:
+- specify levels of experience (Junior to Fellow), 
+- name main qualities of each level (domain expertise, time management, etc.), 
+- find a way to prove the named qualities are present (mostly via certificates issued by trusted authorities of the topic, e.g. technology vendors).
+
+# Step-by-step
+There are many certification programs available. Most likely, too many. However, I do my best to come up with the simple and efficient as possible step-by-step guide I would follow myself in order to get better in IT field day after day. In my point of view, certification programs encourage discipline on personal growth, give a confident order of topics to learn, direct to a new social environment to participate in, trick with new practical situations-challanges you may be already educated enough to deal with, help gaining more value out of situations, help with profit and so on.
 
 ## Junior Software Engineer (P1)
 |  |  |
@@ -31,6 +38,10 @@ Still learning your domain and industry best practices
 - [Harcourt Assessment (a division of Pearson Education)](http://pearsoned.com/)
   - [Miller Analogies Test (MAT)](http://www.milleranalogies.com/) [*](https://en.wikipedia.org/wiki/Miller_Analogies_Test)
   
+# Credits
+- "Mozilla's engineer track" (not sure if it's a legit track or just a false post in Twitter but I saw the value in it)
+- Some modifications based on personal experience working in IT field for a few years
+
 # @TODO: 
 http://www.triplenine.org/HowtoJoin/TestScores.aspx  
 https://www.us.mensa.org/join/testscores/qualifying-test-scores/  
