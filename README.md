@@ -7,14 +7,14 @@ Main points of this road map is to:
 - name main qualities of each level (domain expertise, time management, etc.), 
 - find a way to prove the named qualities were/are present (mostly via certificates issued by trusted authorities of the topic, e.g. technology vendors).
 
-# Step-by-step guide, happy to follow along myself
+# Step-by-step guide, happy to follow along by myself
 There are many certification programs available. Most likely, too many. However, I do my best to come up with the simple and efficient as possible step-by-step guide I would follow myself in order to get better in IT field day after day.  
   
 In my point of view, certification programs encourage discipline on personal growth, give a confident order of topics to learn, direct to a new social environment to participate in, trick with new practical situations-challanges you may be already educated enough to deal with, help gaining more value out of situations, help with profit and so on, - all of that seems to be attractive for me as an IT professional.  
   
 It is up to you to skip some steps from the mentioned bellow, or follow along. Either way, I do think that jumping too much in front makes the process of learning a bit more difficult, probably not that enjoyable as it may be, and sometimes even results to knowledge gaps as well.
 
-# Matrix of experience x qualities
+# General matrix of experience x qualities
 
 ![Image of so known Mozilla engineer track](https://github.com/sugalvojau/certification/raw/master/engineer_track_large.jpeg)
 
