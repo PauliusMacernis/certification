@@ -42,7 +42,7 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
   - [Miller Analogies Test (MAT)](http://www.milleranalogies.com/) [*](https://en.wikipedia.org/wiki/Miller_Analogies_Test)
   
 # Credits
-- "Mozilla's engineer track" (not sure if it's a legit track or just a false post in Twitter but I saw the value in it)
+- "Mozilla's engineer track" (not sure if it's a legit track or just a false post in [Twitter](https://twitter.com/gankro/status/1046438955439271936) but I saw the value in it)
 - Some modifications based on personal experience working in IT field for a few years
 
 # @TODO: 
