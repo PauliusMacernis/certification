@@ -14,6 +14,8 @@ In my point of view, certification programs encourage discipline on personal gro
   
 It is up to you to skip some steps from the mentioned bellow, or follow along. Either way, I do think that jumping too much in front makes the process of learning a bit more difficult, probably not that enjoyable as it may be, and sometimes even results to knowledge gaps as well.
 
+# Matrix of experience x qualities
+
 ![Image of so known Mozilla engineer track](https://github.com/sugalvojau/certification/raw/master/engineer_track_large.jpeg)
 
 ## Software Engineer 1 (P1) - Junior Software Engineer
