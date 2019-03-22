@@ -3,11 +3,20 @@ A road map for people targeting career in IT, most likely - a role of a web-soft
 
 # Roadmap
 
-
-| Title  | Junior Software Engineer | Mid Software Engineer | Senior Software Engineer | Staff Software Engineer | Senior Staff Software Engineer | Principal Engineer | Distinguished Engineer | Fellow |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Levels | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 |
-| Time scope of technical accountability and planning horizon | 1-3 days | 1-2 weeks | 1 month | 2-3 months | 3-6 months | 6-12 months | 1-2 years | 3-5 years |
+## Junior Software Engineer (P1)
+|  |  |
+| --- | --------- |
+| **Time scope of technical accountability and planning horizon** | 1-3 days |
+| **Complexity scope you're expected to tackle** | Actionable tasks that require little collaboration to complete. |
+| **Risk management** | Escalate with your manager or lead when you are blocked. |
+| **Domain Expertise** | Still learning your domain and industry best practices. |
+| **Understanding the Bigger Picture** | Not expected, but should display potential. |
+| `People` |  |
+| **Influence** | Self |
+| **Responsibility and Direction Needed** | Daily to weekly supervision needed from manager or more senior engineers. |
+| **Communication** | Inform your manager of your status. |
+| **Team contributions** | Learns and follows team process. |
+| **Evaluation** | Manager |
 
 
 ## Software Engineer 1 (P1) - Junior Software Engineer
