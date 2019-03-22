@@ -8,7 +8,8 @@ Main points of this road map is to:
 - find a way to prove the named qualities are present (mostly via certificates issued by trusted authorities of the topic, e.g. technology vendors).
 
 # Step-by-step
-There are many certification programs available. Most likely, too many. However, I do my best to come up with the simple and efficient as possible step-by-step guide I would follow myself in order to get better in IT field day after day. In my point of view, certification programs encourage discipline on personal growth, give a confident order of topics to learn, direct to a new social environment to participate in, trick with new practical situations-challanges you may be already educated enough to deal with, help gaining more value out of situations, help with profit and so on.
+There are many certification programs available. Most likely, too many. However, I do my best to come up with the simple and efficient as possible step-by-step guide I would follow myself in order to get better in IT field day after day. In my point of view, certification programs encourage discipline on personal growth, give a confident order of topics to learn, direct to a new social environment to participate in, trick with new practical situations-challanges you may be already educated enough to deal with, help gaining more value out of situations, help with profit and so on.  
+It is up to you to skip some steps from the mentioned bellow or follow along. However, I do think that jumping too much in front makes the process of learning a bit more difficult, sometimes results to knowledge gaps as well.
 
 ## Junior Software Engineer (P1)
 |  |  |
