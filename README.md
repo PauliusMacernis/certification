@@ -1,15 +1,18 @@
 # Road map
 This road map is suited for people targeting career in IT, probably a position of a web-software engineer and beyond. 
 
-# Certification
+# Certification-based
 Main points of this road map is to:
 - specify levels of experience (Junior to Fellow), 
 - name main qualities of each level (domain expertise, time management, etc.), 
 - find a way to prove the named qualities are present (mostly via certificates issued by trusted authorities of the topic, e.g. technology vendors).
 
-# Step-by-step
-There are many certification programs available. Most likely, too many. However, I do my best to come up with the simple and efficient as possible step-by-step guide I would follow myself in order to get better in IT field day after day. In my point of view, certification programs encourage discipline on personal growth, give a confident order of topics to learn, direct to a new social environment to participate in, trick with new practical situations-challanges you may be already educated enough to deal with, help gaining more value out of situations, help with profit and so on.  
+# Step-by-step guide
+There are many certification programs available. Most likely, too many. However, I do my best to come up with the simple and efficient as possible step-by-step guide I would follow myself in order to get better in IT field day after day.  
+In my point of view, certification programs encourage discipline on personal growth, give a confident order of topics to learn, direct to a new social environment to participate in, trick with new practical situations-challanges you may be already educated enough to deal with, help gaining more value out of situations, help with profit and so on.  
 It is up to you to skip some steps from the mentioned bellow, or follow along. Either way, I do think that jumping too much in front makes the process of learning a bit more difficult, probably not that enjoyable as it may be, and sometimes even results to knowledge gaps as well. So my suggestion is - just follow allong as much as you can. ;)
+
+![Image of so known Mozilla engineer track](https://github.com/sugalvojau/certification/raw/master/engineer_track_large.jpeg)
 
 ## Junior Software Engineer (P1)
 |  |  |
