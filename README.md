@@ -1,6 +1,14 @@
 # Certification
 A road map for people targeting career in IT, most likely - a role of a web-software engineer.  
-Prices, if any, are for Lithuania.  
+
+# Roadmap
+
+
+| Title  | Junior Software Engineer | Mid Software Engineer | Senior Software Engineer | Staff Software Engineer | Senior Staff Software Engineer | Principal Engineer | Distinguished Engineer | Fellow |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Levels | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 |
+| Time scope of technical accountability and planning horizon | 1-3 days | 1-2 weeks | 1 month | 2-3 months | 3-6 months | 6-12 months | 1-2 years | 3-5 years |
+
 
 ## Software Engineer 1 (P1) - Junior Software Engineer
 Still learning your domain and industry best practices
