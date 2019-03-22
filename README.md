@@ -12,7 +12,7 @@ There are many certification programs available. Most likely, too many. However,
   
 In my point of view, certification programs encourage discipline on personal growth, give a confident order of topics to learn, direct to a new social environment to participate in, trick with new practical situations-challanges you may be already educated enough to deal with, help gaining more value out of situations, help with profit and so on, - all of that seems to be attractive for me as an IT professional.  
   
-It is up to you to skip some steps from the mentioned bellow, or follow along. Either way, I do think that jumping too much in front makes the process of learning a bit more difficult, probably not that enjoyable as it may be, and sometimes even results to knowledge gaps as well. So my suggestion is - just follow allong in the most comfortable way for you. ;)
+It is up to you to skip some steps from the mentioned bellow, or follow along. Either way, I do think that jumping too much in front makes the process of learning a bit more difficult, probably not that enjoyable as it may be, and sometimes even results to knowledge gaps as well.
 
 ![Image of so known Mozilla engineer track](https://github.com/sugalvojau/certification/raw/master/engineer_track_large.jpeg)
 
