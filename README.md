@@ -16,7 +16,7 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 
 ![Image of so known Mozilla engineer track](https://github.com/sugalvojau/certification/raw/master/engineer_track_large.jpeg)
 
-## Junior Software Engineer (P1)
+## Software Engineer 1 (P1) - Junior Software Engineer
 |  |  |
 | --- | --------- |
 | **Time scope of technical accountability and planning horizon** | 1-3 days |
@@ -31,9 +31,6 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 | **Team contributions** | Learns and follows team process. |
 | **Evaluation** | Manager |
 
-
-## Software Engineer 1 (P1) - Junior Software Engineer
-Still learning your domain and industry best practices
 
 - [ACT, Inc.](https://www.act.org/)
   - [ACT](http://www.act.org/content/act/en/products-and-services/the-act.html) [*](https://en.wikipedia.org/wiki/ACT_(test))
