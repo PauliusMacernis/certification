@@ -91,7 +91,20 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 ...
 
 ## Software Engineer 2 (P2) - Mid Software Engineer
-Competent in your domain. Familiar with other areas of domain expertise in your team.
+|  |  |
+| --- | --------- |
+| **Time scope of technical accountability and planning horizon** | 1-2 weeks |
+| **Complexity scope you're expected to tackle** | Actionable tasks that require more than "little" collaboration to complete. |
+| **Risk management** | Spot and raise potential problems with your manager or lead before you get blocked. |
+| **Domain Expertise** | Competent in your domain. Familiar with other areas of domain expertise in your team. |
+| **Understanding the Bigger Picture** | Have awarness of the broader product strategy and contribute to it. |
+| `People` |  |
+| **Influence** | Self |
+| **Responsibility and Direction Needed** | Weekly to bi-weekly supervision needed from manager or more senior engineers. |
+| **Communication** | Inform your team of progress you are making. |
+| **Team contributions** | Proficient with team process. Improve own productivity. Positive influence on team. |
+| **Evaluation** | Manager |
+
 - CompTIA:
   - [CompTIA Network+](https://certification.comptia.org/certifications/network)
     - Exam: [N10-007](https://certification.comptia.org/certifications/network#examdetails), Price: 319 USD, Passing score: 720 of 900, 90 minutes, Recommended experience: CompTIA A+ Certification and (9) months of networking experience
@@ -134,7 +147,20 @@ Competent in your domain. Familiar with other areas of domain expertise in your 
  - ...
 
 ## Senior Software Engineer (P3)
-Advanced in your domain. Familiar in other areas of domain expertise in your team.
+|  |  |
+| --- | --------- |
+| **Time scope of technical accountability and planning horizon** | 1 month |
+| **Complexity scope you're expected to tackle** | Tasks that require further work to be actionable. Can start to effectively reason about concerns that span multiple components in the system. |
+| **Risk management** | Manage risk in your tasks. Resolve getting blocked on your own. Escalate in a timely manner when you get in over your head, which is rare. |
+| **Domain Expertise** | Advanced in your domain. Familiar in other areas of domain expertise in your team. |
+| **Understanding the Bigger Picture** | Have a solid understanding of the product strategy and can recommend solutions to critical issues. |
+| `People` |  |
+| **Influence** | Peers (2-5) |
+| **Responsibility and Direction Needed** | Largerly self directed after work is assigned. |
+| **Communication** | Help team members get information they need to be successful. Be a go-to person for code review in your domain. Contribute to team discussions. |
+| **Team contributions** | "Go-to" person on the team. Improve team productivity. Interview candidates effectively. |
+| **Evaluation** | Manager |
+
 - CompTIA:
   - [CompTIA Cybersecurity Analyst (CySA+)](https://certification.comptia.org/certifications/cybersecurity-analyst)
     - Exam: [CS0-001](https://certification.comptia.org/certifications/cybersecurity-analyst#examdetails), Price: 349 USD, Passing score: 750 of 900, 165 minutes, Recommended experience: Network+, Security+ or equivalent knowledge. Minimum of 3-4 years of hands-on information security or related experience. While there is no required prerequisite, CySA+ is intended to follow CompTIA Security+ or equivalent experience and has a technical, hands-on focus.
