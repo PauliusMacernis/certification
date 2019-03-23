@@ -319,11 +319,12 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 
 ## ------
 
-# Credits
+# Extra info / Credits
 - "Mozilla's engineer track" (not sure if it's a legit track or just a false post in [Twitter](https://twitter.com/gankro/status/1046438955439271936) but I saw the value in it)
 - Some modifications based on personal experience working in IT field for a few years
+- When the new version of a certification or exam is available then the older one is ignored.
 
-# Some of resources
+# @TODO / Some of resources
 https://certification.comptia.org/docs/default-source/downloadablefiles/it-certification-roadmap.pdf  
 https://linuxacademy.com/library/index/index/type/module  
 https://coinify.com/news/8-professional-blockchain-certifications/  
@@ -333,8 +334,6 @@ https://home.pearsonvue.com/For-test-centers/Voucher-store/pricelist.aspx
 https://www.certificationcamps.com/microsoft-certifications-guide/  
 IC3 (IC3)  
 Business Fundamentals (BIZ)  
-Microsoft Office Specialist (MOS)  
-Microsoft Technology Associate (MTA)  
 Microsoft Certified Educator (MCE)  
 Adobe Certified Associate (ACA)  
 Adobe Certified Expert (ACE)  
@@ -344,22 +343,18 @@ Autodesk Certified Professional (ACP)
 Toon Boom Certified Associate (TCA)  
 App Development with Swift Certification (APPLE)  
 EC-Council Associate (ECCA)  
-https://www.microsoft.com/en-us/learning/browse-new-certification.aspx  
-https://www.microsoft.com/en-us/learning/mct-certification.aspx  
-https://www.microsoft.com/en-us/learning/mce-certification.aspx  
 https://en.wikipedia.org/wiki/ITIL  
-
-
-# @TODO: 
 http://www.triplenine.org/HowtoJoin/TestScores.aspx  
 https://www.us.mensa.org/join/testscores/qualifying-test-scores/  
 https://www.intertel-iq.org/join-us  
 https://www.elastic.co/training/certification  
 
-# In Progress
+# Checked
+
 | Date       | Subject                               |
 | ---------- | --------------------------------------|
-| 2019-01-23 | https://www.axelos.com/certifications (ITIL Foundation only) |
-
-# p.s.
-- When the new version of a certification or exam is available then the older one is ignored.
+| 2019-03-23 | https://www.axelos.com/certifications **(ITIL Foundation only!! TODO: others)** |
+| 2019-01-29 | https://www.microsoft.com/en-us/learning/browse-new-certification.aspx |
+| 2019-01-29 | https://www.microsoft.com/en-us/learning/mct-certification.aspx |
+| 2019-01-29 | https://www.microsoft.com/en-us/learning/mce-certification.aspx |
+| 2019-01-29 | Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA) |
