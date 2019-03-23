@@ -334,7 +334,6 @@ https://home.pearsonvue.com/For-test-centers/Voucher-store/pricelist.aspx
 https://www.certificationcamps.com/microsoft-certifications-guide/  
 IC3 (IC3)  
 Business Fundamentals (BIZ)  
-Microsoft Certified Educator (MCE)  
 Adobe Certified Associate (ACA)  
 Adobe Certified Expert (ACE)  
 Intuit QuickBooks (QBC)  
@@ -345,7 +344,7 @@ App Development with Swift Certification (APPLE)
 EC-Council Associate (ECCA)  
 https://www.microsoft.com/en-us/learning/browse-new-certification.aspx  
 https://www.microsoft.com/en-us/learning/mct-certification.aspx  
-https://www.microsoft.com/en-us/learning/mce-certification.aspx  
+Microsoft Certified Educator (MCE) , https://www.microsoft.com/en-us/learning/mce-certification.aspx  
 https://en.wikipedia.org/wiki/ITIL  
 http://www.triplenine.org/HowtoJoin/TestScores.aspx  
 https://www.us.mensa.org/join/testscores/qualifying-test-scores/  
