@@ -180,7 +180,22 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 - ...
 
 ## Staff Software Engineer (P4)
-Expert in your domain of expertise. Starting to demonstrate architectural and systems thinking.
+
+|  |  |
+| --- | --------- |
+| **Time scope of technical accountability and planning horizon** | 2-3 months |
+| **Complexity scope you're expected to tackle** | Large, complex tasks with multiple components. Investigate and resolve areas of significant ambiguity. Identify the work and break down tasks contributing to team's objectives over the next 2-3 months. |
+| **Risk management** | Manage and mitigate technical risk concerning your project and the work required to achieve your team's objectives. Sequence deliverables to minimize risk. |
+| **Domain Expertise** | Expert in your domain of expertise. Starting to demonstrate architectural and systems thinking. |
+| **Understanding the Bigger Picture** | Can assess what work supports the product strategy and make insightful recommendations regarding priorities. |
+| `People` |  |
+| **Influence** | Team (5-15) |
+| **Responsibility and Direction Needed** | Work is delegated and evaluated on 2-3 month timeframes. Lead team in delivery of work. |
+| **Communication** | Team members are better able to do their jobs as a result of your input, which you provide without being asked. Make technical contributions of the team more widely known. |
+| **Team contributions** | Project tech-lead is typical. Mentor others by stewarding some of your previous responsibilities to others. Collaborate with management on team consensus and direction. |
+| **Evaluation** | Manager, Director |
+
+
 - CompTIA:
   - [CompTIA Advanced Security Practitioner (CASP+)](https://certification.comptia.org/certifications/comptia-advanced-security-practitioner)
     - Exam: [CAS-003](https://certification.comptia.org/certifications/comptia-advanced-security-practitioner#examdetails), Price: 439 USD, Passing score: Pass/Fail only. No scaled score., 165 minutes, Recommended experience: A minimum of ten years of experience in IT administration, including at least five years of hands-on technical security experience
