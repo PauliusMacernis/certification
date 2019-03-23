@@ -264,7 +264,21 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 ...
 
 ## Principle Engineer (P6)
-Company leader in your domain of expertise. Quickly and easily obtain effective expertise within scope of influence.
+
+|  |  |
+| --- | --------- |
+| **Time scope of technical accountability and planning horizon** | 6-12 months |
+| **Complexity scope you're expected to tackle** | Seek to reduce complexity through architectural thinking. Handle multiple conflicting priorities. |
+| **Risk management** | Manage company-wide risks. Architect to reduce risk. |
+| **Domain Expertise** | Company leader in your domain of expertise. Quickly and easy obtain effective expertise within scope of influence. |
+| **Understanding the Bigger Picture** | Inform product strategy by helping senior leadership understand the organization's engineering capabilities. |
+| `People` |  |
+| **Influence** | Organization (50+) |
+| **Responsibility and Direction Needed** | Own an entire multi-team program from inception through  shipping code, without regular technical oversight. |
+| **Communication** | Lead and resolve company-wide technical discussions. |
+| **Team contributions** | Teach others to mentor. Suggest and implement improvements to engineering process, tooling, and IC culture. |
+| **Evaluation** | Director, VP |
+
 ...
 
 ## Distinguished Engineer (P7)
