@@ -282,7 +282,21 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 ...
 
 ## Distinguished Engineer (P7)
-Industry leader in your domain of expertise. Expert with at least one other. Familiar with domains across organization.
+
+|  |  |
+| --- | --------- |
+| **Time scope of technical accountability and planning horizon** | 1-2 years |
+| **Complexity scope you're expected to tackle** | Coordinate problem solving across multiple internal and external teams. |
+| **Risk management** | Identifies and mitigates industry-wide risks. |
+| **Domain Expertise** | Industry leader in your domain of expertise. Expert with at least one other. Familiar with domains across organization. |
+| **Understanding the Bigger Picture** | Lead product strategy discussions with senior management. |
+| `People` |  |
+| **Influence** | Company (1000+) |
+| **Responsibility and Direction Needed** | Work with management to provide direction for the organization as a whole. |
+| **Communication** | Impact industry-wide discussions. Regulary advise SC/VP. |
+| **Team contributions** | Levels up senior technical personnel. Identifies critical skillsets and leads strategic recruiting. Improves team health and productivity. Responsible for engineering IC culture. |
+| **Evaluation** | Director, VP |
+
 ...
 
 ## Fellow (P8)
