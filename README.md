@@ -300,7 +300,21 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 ...
 
 ## Fellow (P8)
-Recognized industry leader in multiple domains. Ability to have insights outside of core domains.
+
+|  |  |
+| --- | --------- |
+| **Time scope of technical accountability and planning horizon** | 3-5 years |
+| **Complexity scope you're expected to tackle** | Breaks new ground in several areas. Provides successful solutions in high risk situations. |
+| **Risk management** | Identifies and mitigates existensial risks to the company or industry. |
+| **Domain Expertise** | Recognized industry leader in multiple domains. Ability to have insights outside of core domains. |
+| **Understanding the Bigger Picture** | Have a role in defining the company's "bigger picture". Align engineering capabilities and product strategy on 3-5 year time frames. |
+| `People` |  |
+| **Influence** | Industry (10 000) |
+| **Responsibility and Direction Needed** | Industry leader. |
+| **Communication** | Convence industry-wide discussions. Sit on SC/VP |
+| **Team contributions** | Demonstrated ability to level up others at most senior levels. Mentors across company and industry. Crafts engineering culture ahead of future demands. |
+| **Evaluation** | SC/VP |
+
 ...
 
 ## ------
