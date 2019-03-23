@@ -343,6 +343,9 @@ Autodesk Certified Professional (ACP)
 Toon Boom Certified Associate (TCA)  
 App Development with Swift Certification (APPLE)  
 EC-Council Associate (ECCA)  
+https://www.microsoft.com/en-us/learning/browse-new-certification.aspx
+https://www.microsoft.com/en-us/learning/mct-certification.aspx
+https://www.microsoft.com/en-us/learning/mce-certification.aspx
 https://en.wikipedia.org/wiki/ITIL  
 http://www.triplenine.org/HowtoJoin/TestScores.aspx  
 https://www.us.mensa.org/join/testscores/qualifying-test-scores/  
@@ -354,7 +357,6 @@ https://www.elastic.co/training/certification
 | Date       | Subject                               |
 | ---------- | --------------------------------------|
 | 2019-03-23 | https://www.axelos.com/certifications **(ITIL Foundation only!! TODO: others)** |
-| 2019-01-29 | https://www.microsoft.com/en-us/learning/browse-new-certification.aspx |
-| 2019-01-29 | https://www.microsoft.com/en-us/learning/mct-certification.aspx |
-| 2019-01-29 | https://www.microsoft.com/en-us/learning/mce-certification.aspx |
-| 2019-01-29 | Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA) |
+| 2019-01-29 | Microsoft |
+| 2019-01-21 | CompTIA |
+| ...        | ... |
