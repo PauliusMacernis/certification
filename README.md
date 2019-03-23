@@ -357,6 +357,6 @@ https://www.elastic.co/training/certification
 | Date       | Subject                               |
 | ---------- | --------------------------------------|
 | 2019-03-23 | https://www.axelos.com/certifications **(ITIL Foundation only!! TODO: others)** |
-| 2019-01-29 | Microsoft |
-| 2019-01-21 | CompTIA |
-| ...        | ... |
+| 2019-02-01 | [ACT, Inc.](https://www.act.org/), [College Board](https://www.collegeboard.org/), [Harcourt Assessment (a division of Pearson Education)](http://pearsoned.com/)  |
+| 2019-01-29 | Microsoft [certificates](https://www.microsoft.com/en-us/learning/browse-all-certifications.aspx) and [exams](https://www.microsoft.com/en-us/learning/exam-list.aspx) |
+| 2019-01-21 | CompTIA [certificates](https://certification.comptia.org/certifications) |
