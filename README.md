@@ -246,7 +246,21 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 - ...
 
 ## Senior Staff Software Engineer (P5)
-Company leader in your domain of expertise.
+
+|  |  |
+| --- | --------- |
+| **Time scope of technical accountability and planning horizon** | 3-6 months |
+| **Complexity scope you're expected to tackle** | Complex tasks spanning multiple domains and teams that have high impact on your project. Identify areas for improvement and their solutions. |
+| **Risk management** | Manage risk in collaborations with other teams. |
+| **Domain Expertise** | Company leader in your domain of expertise. |
+| **Understanding the Bigger Picture** | Work with management to turn product strategy into action. |
+| `People` |  |
+| **Influence** | Extended team (15-50) |
+| **Responsibility and Direction Needed** | Provide direction in a large cross-functional team or multiple teams, and deliver work with infrequent regular oversight. |
+| **Communication** | Team members learn new skills with your help. Have a solid track record of written and oral technical communication. |
+| **Team contributions** | Have a history of mentorship, collaboration, and technical leadership. Recruit excellent diverse talent. Instrumental in improving team efficiency. Guide others in existing engineering culture. |
+| **Evaluation** | Manager, Director |
+
 ...
 
 ## Principle Engineer (P6)
