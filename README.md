@@ -321,6 +321,7 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 - https://www.lpi.org/our-certifications/summary-of-certifications
 - Zend PHP Certification (195 USD): http://www.zend.com/en/services/certification/php-certification
 - UML and other OMG certificates: https://www.omg.org/omg-certifications/index.htm
+- Jenkins: https://www.cloudbees.com/jenkins/jenkins-certification
 - Axelos: https://www.axelos.com/certifications
 - PeopleCert: https://www.peoplecert.org/browse-certifications
 - https://en.wikipedia.org/wiki/ITIL
