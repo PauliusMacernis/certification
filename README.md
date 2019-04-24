@@ -78,16 +78,9 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
     - Exam [98-382: Introduction to Programming Using JavaScript](https://www.microsoft.com/en-us/learning/exam-98-382.aspx), Price: [77 EUR](https://wsr.pearsonvue.com/vouchers/pricelist/microsoft.asp), Passing score: [700 of 1000?](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx#faqscoring-12), [45 minutes](https://certiport.pearsonvue.com/Educator-resources/Exam-details/Exam-lengths.aspx), Recommended experience: [No prerequisite](https://www.microsoft.com/en-us/learning/mta-summary-certification.aspx). Candidates for this exam should be able to recognize and write syntactically correct JavaScript code, use data types supported by JavaScript, and be able to recognize and write JavaScript code that will logically solve a given problem. Candidates are expected to have at least 100 hours of instruction or hands-on experience with the JavaScript programming language. Candidates should also be familiar with JavaScript features and capabilities, and understand how to write, debug, and maintain well-formed, well documented JavaScript code. 
     - Exam [98-383: Introduction to Programming Using HTML and CSS](https://www.microsoft.com/en-us/learning/exam-98-383.aspx), Price: [77 EUR](https://wsr.pearsonvue.com/vouchers/pricelist/microsoft.asp), Passing score: [700 of 1000?](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx#faqscoring-12), [45 minutes](https://certiport.pearsonvue.com/Educator-resources/Exam-details/Exam-lengths.aspx), Recommended experience: [No prerequisite](https://www.microsoft.com/en-us/learning/mta-summary-certification.aspx). Candidates for this exam should be able to recognize and write syntactically correct HTML and CSS, structure data using HTML elements, and create and apply styles using CSS. Candidates are expected to have at least 100 hours of instruction or hands-on experience with HTML and CSS, be familiar with their features and capabilities, and understand how to write, debug, and maintain well-formed HTML and CSS code.
     - Exam [98-388: Introduction to Programming Using Java](https://www.microsoft.com/en-us/learning/exam-98-388.aspx), Price: [77 EUR](https://wsr.pearsonvue.com/vouchers/pricelist/microsoft.asp), Passing score: [700 of 1000?](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx#faqscoring-12), [45 minutes](https://certiport.pearsonvue.com/Educator-resources/Exam-details/Exam-lengths.aspx), Recommended experience: [No prerequisite](https://www.microsoft.com/en-us/learning/mta-summary-certification.aspx). Candidates for this exam are application developers working with Java 6 SE or later, secondary and immediate post-secondary level students of software development, or entry-level software developers. Candidates should have at least 150 hours or instruction or hands-on experience with Java, are familiar with its features and capabilities, and understand how to write, debug and maintain well-formed, well documented Java code.
-- Microsoft Technology Associate (many exams, one req.): https://www.microsoft.com/en-us/learning/mta-summary-certification.aspx
-- LPI Linux Essentials (110 USD): https://www.lpi.org/our-certifications/linux-essentials-overview
-- CompTIA Cloud Essentials (119 USD): https://certification.comptia.org/certifications/cloud-essentials
-- Google Cloud Certified: G Suite (75 USD): https://cloud.google.com/certification/gsuite
-- Google Cloud Certified: Associate Cloud Engineer (125 USD): https://cloud.google.com/certification/cloud-engineer
-- Cisco Certified Entry Networking Technician (CCENT) (165 USD): https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html
-- AWS Certified Cloud Practitioner (100 USD): https://aws.amazon.com/certification/certified-cloud-practitioner/
-- Zend PHP Certification (195 USD): http://www.zend.com/en/services/certification/php-certification
-- Oracle Certified Professional (245 USD): https://education.oracle.com/oracle-certified-professional-mysql-56-developer/trackp_259
-- Other associate programs: Android, Java, Python, ElasticSearch, JavaScript, HTML, CSS, Virtualization, Office tools (MS, Linux, Mac)...
+- [Linux Professional Institute](https://www.lpi.org) [certificates](https://www.lpi.org/our-certifications/summary-of-certifications):
+    - [LPI Linux Essentials](https://www.lpi.org/our-certifications/linux-essentials-overview)
+        - Exam [010-160](https://www.lpi.org/our-certifications/exam-010-objectives), aka. "Linux Essentials Exam 010", Price: [115 EUR](https://www.lpimarketplace.com/product-p/ess_p.htm), Passing score: [? of ?](?), [? minutes](?), Recommended experience: [No prerequisite](https://www.lpi.org/our-certifications/linux-essentials-overview).
 ...
 
 ## Software Engineer 2 (P2) - Mid Software Engineer
@@ -325,31 +318,38 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 - When the new version of a certification or exam is available then the older one is ignored.
 
 # @TODO / Some of resources
-https://certification.comptia.org/docs/default-source/downloadablefiles/it-certification-roadmap.pdf  
-https://linuxacademy.com/library/index/index/type/module  
-https://coinify.com/news/8-professional-blockchain-certifications/  
-https://www.cio.com/article/3209911/certifications/big-data-certifications-that-will-pay-off.html  
-https://www.peoplecert.org/browse-certifications  
-https://home.pearsonvue.com/For-test-centers/Voucher-store/pricelist.aspx  
-https://www.certificationcamps.com/microsoft-certifications-guide/  
-IC3 (IC3)  
-Business Fundamentals (BIZ)  
-Adobe Certified Associate (ACA)  
-Adobe Certified Expert (ACE)  
-Intuit QuickBooks (QBC)  
-Autodesk Certified User (ACU)  
-Autodesk Certified Professional (ACP)  
-Toon Boom Certified Associate (TCA)  
-App Development with Swift Certification (APPLE)  
-EC-Council Associate (ECCA)  
-https://www.microsoft.com/en-us/learning/browse-new-certification.aspx  
-https://www.microsoft.com/en-us/learning/mct-certification.aspx  
-Microsoft Certified Educator (MCE) , https://www.microsoft.com/en-us/learning/mce-certification.aspx  
-https://en.wikipedia.org/wiki/ITIL  
-http://www.triplenine.org/HowtoJoin/TestScores.aspx  
-https://www.us.mensa.org/join/testscores/qualifying-test-scores/  
-https://www.intertel-iq.org/join-us  
-https://www.elastic.co/training/certification  
+- Cisco Certified Entry Networking Technician (CCENT) (165 USD): https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html  
+- AWS Certified Cloud Practitioner (100 USD): https://aws.amazon.com/certification/certified-cloud-practitioner/  
+- Zend PHP Certification (195 USD): http://www.zend.com/en/services/certification/php-certification  
+- Oracle Certified Professional (245 USD): https://education.oracle.com/oracle-certified-professional-mysql-56-developer/trackp_259  
+- Other associate programs: Android, Java, Python, ElasticSearch, JavaScript, HTML, CSS, Virtualization, Office tools (MS, Linux, Mac)...  
+- https://certification.comptia.org/docs/default-source/downloadablefiles/it-certification-roadmap.pdf  
+- https://www.lpi.org/our-certifications/summary-of-certifications  
+- https://cloud.google.com/certification/  
+- https://linuxacademy.com/library/index/index/type/module  
+- https://coinify.com/news/8-professional-blockchain-certifications/  
+- https://www.cio.com/article/3209911/certifications/big-data-certifications-that-will-pay-off.html  
+- https://www.peoplecert.org/browse-certifications  
+- https://home.pearsonvue.com/For-test-centers/Voucher-store/pricelist.aspx  
+- https://www.certificationcamps.com/microsoft-certifications-guide/  
+- IC3 (IC3)  
+- Business Fundamentals (BIZ)  
+- Adobe Certified Associate (ACA)  
+- Adobe Certified Expert (ACE)  
+- Intuit QuickBooks (QBC)  
+- Autodesk Certified User (ACU)  
+- Autodesk Certified Professional (ACP)  
+- Toon Boom Certified Associate (TCA)  
+- App Development with Swift Certification (APPLE)  
+- EC-Council Associate (ECCA)  
+- https://www.microsoft.com/en-us/learning/browse-new-certification.aspx  
+- https://www.microsoft.com/en-us/learning/mct-certification.aspx  
+- Microsoft Certified Educator (MCE) , https://www.microsoft.com/en-us/learning/mce-certification.aspx  
+- https://en.wikipedia.org/wiki/ITIL  
+- http://www.triplenine.org/HowtoJoin/TestScores.aspx  
+- https://www.us.mensa.org/join/testscores/qualifying-test-scores/  
+- https://www.intertel-iq.org/join-us  
+- https://www.elastic.co/training/certification  
 
 # Checked
 
