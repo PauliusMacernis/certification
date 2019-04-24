@@ -318,18 +318,20 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 - When the new version of a certification or exam is available then the older one is ignored.
 
 # @TODO / Some of resources
-- Cisco Certified Entry Networking Technician (CCENT) (165 USD): https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html  
-- AWS Certified Cloud Practitioner (100 USD): https://aws.amazon.com/certification/certified-cloud-practitioner/  
-- Zend PHP Certification (195 USD): http://www.zend.com/en/services/certification/php-certification  
+- https://www.lpi.org/our-certifications/summary-of-certifications
+- Zend PHP Certification (195 USD): http://www.zend.com/en/services/certification/php-certification
+- PeopleCert: https://www.peoplecert.org/browse-certifications
+- https://en.wikipedia.org/wiki/ITIL
+- https://www.elastic.co/training/certification  
+- AWS Certified Cloud Practitioner (100 USD): https://aws.amazon.com/certification/certified-cloud-practitioner/ 
+- https://cloud.google.com/certification/ 
 - Oracle Certified Professional (245 USD): https://education.oracle.com/oracle-certified-professional-mysql-56-developer/trackp_259  
+- Cisco Certified Entry Networking Technician (CCENT) (165 USD): https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html  
 - Other associate programs: Android, Java, Python, ElasticSearch, JavaScript, HTML, CSS, Virtualization, Office tools (MS, Linux, Mac)...  
-- https://certification.comptia.org/docs/default-source/downloadablefiles/it-certification-roadmap.pdf  
-- https://www.lpi.org/our-certifications/summary-of-certifications  
-- https://cloud.google.com/certification/  
+- https://certification.comptia.org/docs/default-source/downloadablefiles/it-certification-roadmap.pdf   
 - https://linuxacademy.com/library/index/index/type/module  
 - https://coinify.com/news/8-professional-blockchain-certifications/  
 - https://www.cio.com/article/3209911/certifications/big-data-certifications-that-will-pay-off.html  
-- https://www.peoplecert.org/browse-certifications  
 - https://home.pearsonvue.com/For-test-centers/Voucher-store/pricelist.aspx  
 - https://www.certificationcamps.com/microsoft-certifications-guide/  
 - IC3 (IC3)  
@@ -344,12 +346,10 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 - EC-Council Associate (ECCA)  
 - https://www.microsoft.com/en-us/learning/browse-new-certification.aspx  
 - https://www.microsoft.com/en-us/learning/mct-certification.aspx  
-- Microsoft Certified Educator (MCE) , https://www.microsoft.com/en-us/learning/mce-certification.aspx  
-- https://en.wikipedia.org/wiki/ITIL  
+- Microsoft Certified Educator (MCE) , https://www.microsoft.com/en-us/learning/mce-certification.aspx    
 - http://www.triplenine.org/HowtoJoin/TestScores.aspx  
 - https://www.us.mensa.org/join/testscores/qualifying-test-scores/  
 - https://www.intertel-iq.org/join-us  
-- https://www.elastic.co/training/certification  
 
 # Checked
 
