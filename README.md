@@ -16,7 +16,7 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 
 # General matrix of experience x qualities
 
-![Image of so known Mozilla engineer track](https://github.com/sugalvojau/certification/raw/master/engineer_track_large.jpeg)
+![Image of so known Mozilla engineer track](https://github.com/sugalvojau/certification/raw/master/images/engineer_track_large.jpeg)
 
 ## Software Engineer 1 (P1) - Junior Software Engineer
 |  |  |
