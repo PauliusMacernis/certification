@@ -1,0 +1,648 @@
+# Topics to study, steb-by-setp
+- Clean Code
+    - Broken Windows Theory (https://medium.com/akeneo-labs/broken-windows-and-boy-scouts-3652feba0065)
+    - Rubber duck debugging (https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+    - Premature optimisation (https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+    - Bikeshedding (https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+    - Analysis Paralysis (https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+    - God Class (https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+    - Fear of Adding Classes (https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+    - Inner-platform Effect (https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+    - Magic Numbers and Strings (https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+    - Management by Numbers (https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+    - Useless (Poltergeist) Classes (https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+    - Occam's razor (https://michaellant.com/2010/08/10/occams-razor-and-the-art-of-software-design/)
+    - The Principle of Parsimony: "The use of the simplest or most frugal route of explanation available" (https://en.wikipedia.org/wiki/Parsimony)
+- Math or so
+    - Math in plain text (e.g. https://pages.uoregon.edu/ncp/Courses/MathInPlainTextEmail.html )
+    - Numerical differentiation, Symbolic differentiation, Automatic differentiation (https://stackoverflow.com/questions/43455320/difference-between-symbolic-differentiation-and-automatic-differentiation)
+- Computation theory / computability
+    - The Annotated Turing (https://en.wikipedia.org/wiki/The_Annotated_Turing)
+    - Stateful vs. stateless (e.g. https://whatis.techtarget.com/definition/stateless)
+    - Partial-order planning vs. total-order planning (e.g. https://en.wikipedia.org/wiki/Partial-order_planning)
+    - Von Neumann architecture (https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+    - ETL applications
+- Standard for Floating-Point Arithmetic:
+    - IEEE 754 standard (https://ieeexplore.ieee.org/document/4610935/)
+    - ISO/IEC/IEEE 60559:2011 (https://www.iso.org/standard/57469.html)
+- Encodings, encoding/decoding:
+    - https://www.w3.org/International/questions/qa-what-is-encoding
+    - http://kunststube.net/encoding/
+- Text-based formats:
+    - TXT
+    - Text/Source code editor (https://en.wikipedia.org/wiki/Comparison_of_text_editors , https://en.wikipedia.org/wiki/Source_code_editor):
+        - Notepad (https://en.wikipedia.org/wiki/Microsoft_Notepad)
+        - Notepad++ (https://notepad-plus-plus.org/)
+    - Online dubuggers, etc.
+        - JS Bin (http://jsbin.com/)
+    - IDE (https://en.wikipedia.org/wiki/Integrated_development_environment):
+        - PHPStorm (https://www.jetbrains.com/phpstorm/)
+        - NetBeans (https://netbeans.org/)
+        - Visual Studio (https://visualstudio.microsoft.com/vs/)
+        - ...
+    - Code snippets:
+        - PHPStorm
+            - Basic HTML5 layout template
+            - etc.
+    - Cases
+        - PascalCase
+        - camelCase
+        - snake_case
+        - SCREAMING_SNAKE_CASE (https://github.com/qerub/camel-snake-kebab)
+        - Camel_Snake_Case (https://github.com/qerub/camel-snake-kebab)
+        - hyphenated (http://www.dictionary.com/browse/hyphenated):
+            - kebab-case (http://wiki.c2.com/?KebabCase , https://lodash.com/docs#kebabCase), lisp-case, caterpillar-case, spinal-case, dash-case, hyphen-case, ...
+            - Train-Case
+    - Lorem ipsum (https://en.wikipedia.org/wiki/Lorem_ipsum)
+- Backus–Naur form (BNF)
+    - General info (https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form) and variants available
+    - Extended Backus–Naur form (EBNF), ISO/IEC 14977 : 1996(E) (https://www.iso.org/standard/26153.html , https://www.cl.cam.ac.uk/~mgk25/iso-14977.pdf) 
+    - Augmented BNF for Syntax Specifications: ABNF, 2008 (https://tools.ietf.org/html/rfc5234), Routing Backus-Naur Form (RBNF): A Syntax Used to Form Encoding Rules in Various Routing Protocol Specifications, 2009 (https://www.rfc-editor.org/info/rfc5511), Essential Correction for IPv6 ABNF and URI Comparison in RFC 3261, 2010 (https://www.rfc-editor.org/info/rfc5954), Case-Sensitive String Support in ABNF, 2014 (https://tools.ietf.org/html/rfc7405) , P-Access-Network-Info ABNF Update, 2016 (https://www.rfc-editor.org/info/rfc7913)
+    - Routing Backus-Naur Form (RBNF): A Syntax Used to Form Encoding Rules in Various Routing Protocol Specifications, 2009 (https://tools.ietf.org/html/rfc5511)
+    - A translational BNF grammar notation (TBNF), ( https://en.wikipedia.org/wiki/Translational_Backus%E2%80%93Naur_form , https://dl.acm.org/citation.cfm?id=1147218 )
+- SGML (https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language , https://stackoverflow.com/questions/4053917/where-is-the-html5-document-type-definition)
+    - For example, there is no SGML way to capture the HTML5 rule that any attribute name that starts with “data-” and complies with certain general rules is valid. In SGML, attributes need to be listed individually, so a DTD would need to be infinite.
+    - Document type definition (DTD) ( https://en.wikipedia.org/wiki/Document_type_definition , https://stackoverflow.com/questions/21566680/what-is-the-meaning-of-dtd-and-sgml-in-html )
+- Regular expressions
+- Data serialization languages / markup languages:
+    - CSV (all the quirks with this, especialy when importing/exporting, like escape chars, etc.)
+        - CSV is not a standard: https://chriswarrick.com/blog/2017/04/07/csv-is-not-a-standard/
+        - Common Format and MIME Type for Comma-Separated Values (CSV) Files: https://tools.ietf.org/html/rfc4180
+    - YAML (.yaml, .yml) ( http://yaml.org/ )
+    - XML
+        - SVG
+    - Markdown: https://en.wikipedia.org/wiki/Markdown
+        - CommonMark: https://commonmark.org/
+        - GitHub Flavored Markdown (GFM): https://github.github.com/gfm/
+    - HTML
+    - CSS ( https://www.w3.org/TR/CSS/ )
+        - CSS naming
+            - BEM
+            - SuitCSS
+            - SystematicCSS
+        - CSS Box Alignment (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Alignment)
+            - block layout, designed for laying out documents
+            - inline layout, designed for laying out text
+            - table layout, designed for laying out 2D data in a tabular format
+            - positioned layout, designed for very explicit positioning without much regard for other elements in the document
+            - flex layout, designed for laying out more complex applications and webpages:
+                - https://www.w3.org/TR/css-flexbox-1/
+                - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+            - grid layout
+                - https://css-tricks.com/snippets/css/complete-guide-grid/
+                - https://abookapart.com/products/get-ready-for-css-grid-layout
+        - Bootstrap
+            - Font Awesome
+- Versioning
+    - Git (https://git-scm.com/ , https://services.github.com/on-demand/)
+        - Git flow (http://nvie.com/posts/a-successful-git-branching-model/)
+        - Gource (http://gource.io/)
+        - GitWeb (`git instaweb --httpd=webrick`, `git instaweb --httpd=webrick --stop`, https://git-scm.com/book/en/v2/Git-on-the-Server-GitWeb )
+        - gitk ( https://git-scm.com/docs/gitk )
+    - Semantic Versioning (https://semver.org/, https://github.com/semantic-release/semantic-release)
+    - Romantic Versioning (http://blog.legacyteam.info/2015/12/romver-romantic-versioning/), e.g. Laravel uses it?
+- Repositories and dependencies management:
+    - PHP
+        - PEAR (http://pear.php.net/) and PEAR manager (PEAR manager installer: http://pear.php.net/go-pear)
+        - PEAR2 (http://pear2.php.net/) and Pyrus manager (http://pear2.php.net/pyrus.phar)
+        - GitHub (https://github.com/) and Git (Installer: http://git-scm.com/downloads)
+        - Packagist (https://packagist.org/) and Composer (Installer: https://getcomposer.org/installer)
+- Documentation
+    - reStructuredText (sometimes abbreviated as RST, ReST, or reST) (https://en.wikipedia.org/wiki/ReStructuredText)
+    - PHPDoc (https://www.phpdoc.org/), e.g.:
+    ```
+    /**
+     * {@inheritdoc}
+     */
+    ```
+    - Sami, the API Documentation Generator. ( https://github.com/FriendsOfPHP/sami )
+- Translations:
+    - https://crowdin.com/
+- Data:
+    - Scraping:
+        - https://www.apify.com/
+- Wireshark (https://www.wireshark.org/download/docs/user-guide.pdf)
+- General terminology:
+    - SaaS
+    - API:
+        - SOAP
+        - REST
+        - Web Push API (https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Best_Practices)
+        - WebRTC API (https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+        - GraphQL (https://services.github.com/on-demand/graphql/)
+    - Data Engineers 
+    - Google Taxonomy (https://www.google.com/basepages/producttype/taxonomy.en-US.txt), (https://feedonomics.com/google-shopping-category-taxonomy/)
+    - How the internet really works: https://www.safaribooksonline.com/live-training/courses/how-the-internet-really-works/0636920172864/
+- Organizations:
+    - IANA (https://www.ietf.org/standards/iana/)
+- PIM
+    - Akeneo PIM (https://www.akeneo.com/)
+    - inRiver PIM (https://www.inriver.com/)
+    - Pimcore PIM (https://pimcore.com/en)
+- AS/400
+- HTTP
+    - Client / Server interaction
+        - https://en.wikipedia.org/wiki/Client%E2%80%93server_model
+        - (historical) Host Software, April 1969: https://www.rfc-editor.org/info/rfc0001
+        - (historical) Host software, April 1969: https://www.rfc-editor.org/info/rfc0001
+    - URI
+        - Uniform Resource Identifier (URI): Generic Syntax (Internet standard): https://www.rfc-editor.org/info/rfc3986
+        - Internationalized Resource Identifiers (IRIs) (Proposed standard): https://www.rfc-editor.org/info/rfc3987
+        - URI Design and Ownership (Best current practice): https://www.rfc-editor.org/info/rfc7320
+    - HTTP 
+        - HTTP (https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+        - Application layer (https://en.wikipedia.org/wiki/Application_layer)
+        - https://httpwg.org/
+        - https://httpwg.org/specs/
+        - https://developer.mozilla.org/en-US/docs/Web/HTTP
+    - HTTP 1.1, Status codes, HTTP request, HTTP response, HTTP methods, Cookies, Caching, Content negotiation
+        - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing (https://www.rfc-editor.org/info/rfc7230)
+        - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content (https://www.rfc-editor.org/info/rfc7231)
+        - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests (https://www.rfc-editor.org/info/rfc7232)
+        - Hypertext Transfer Protocol (HTTP/1.1): Range Requests (https://www.rfc-editor.org/info/rfc7233)
+        - Hypertext Transfer Protocol (HTTP/1.1): Caching (https://www.rfc-editor.org/info/rfc7234)
+        - Hypertext Transfer Protocol (HTTP/1.1): Authentication (https://www.rfc-editor.org/info/rfc7235)
+        - Initial Hypertext Transfer Protocol (HTTP) Authentication Scheme Registrations (https://www.rfc-editor.org/info/rfc7236)
+        - Initial Hypertext Transfer Protocol (HTTP) Method Registrations (https://www.rfc-editor.org/info/rfc7237)
+        - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect) (https://www.rfc-editor.org/info/rfc7238)
+        - Forwarded HTTP Extension (https://www.rfc-editor.org/info/rfc7239)
+    - HTTP/2, Status codes, HTTP request, HTTP response, HTTP methods, Cookies
+        - https://developers.google.com/web/fundamentals/performance/http2/
+        - https://en.wikipedia.org/wiki/HTTP/2
+        - https://http2.github.io/
+        - https://www.rfc-editor.org/info/rfc7540
+        - https://http2.github.io/faq/
+    - Cookies
+        - https://en.wikipedia.org/wiki/HTTP_cookie
+        - HTTP State Management Mechanism (https://www.rfc-editor.org/info/rfc6265)
+        - Domain Name System (DNS) Cookies (http://www.rfc-editor.org/info/rfc7873)
+        - EU cookie directive (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0136)
+    - Caching
+        - Internet Web Replication and Caching Taxonomy (http://www.rfc-editor.org/info/rfc3040)
+        - Known HTTP Proxy/Caching Problems, June 2001 (http://www.rfc-editor.org/info/rfc3143)
+    - Content negotiation
+        - https://en.wikipedia.org/wiki/Content_negotiation
+        - (Experimental) Transparent Content Negotiation in HTTP (http://www.rfc-editor.org/info/rfc2295)
+        - (Experimental) HTTP Remote Variant Selection Algorithm -- RVSA/1.0 (http://www.rfc-editor.org/info/rfc2296)
+        - Protocol-independent Content Negotiation Framework (http://www.rfc-editor.org/info/rfc2703)
+        - (?)  Content Negotiation for Messaging Services based on Email (http://www.rfc-editor.org/info/rfc3297)
+        - HTTP Framework for Time-Based Access to Resource States -- Memento (http://www.rfc-editor.org/info/rfc7089)
+        - Open source PHP content negotiation library (supports wildcards and q values) (http://ptlis.net/source/php/content-negotiation/)
+    - Language detection
+        - Content Language Headers (https://www.rfc-editor.org/info/rfc3282)
+        - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language
+        - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Language
+        - https://stackoverflow.com/questions/36943441/how-to-handle-accept-language-fallback
+    - Security in general
+        - E-Commerce (https://www.geotrust.com/au/resources/whitepapers/pdfs/geotrust_e-commerce_guide.pdf)
+    - Private/Public:
+        - Public key vs. Public key certificate
+        - Diffie–Hellman key exchange???
+    - Identification & Authentication & Authorization
+        - Difference between identification and authentication
+        - Challenge-response authentication mechanism (CRAM) (https://en.wikipedia.org/wiki/Challenge%E2%80%93response_authentication)
+        - Understanding the Three Factors of Authentication: http://www.pearsonitcertification.com/articles/article.aspx?p=1718488
+        - Security Support Provider Interface (SSPI): 
+            - https://en.wikipedia.org/wiki/Security_Support_Provider_Interface
+            - http://www.dupuis.me/node/22
+        - Trusted Authentication
+            - https://en.wikipedia.org/wiki/Trusted_system
+            - https://onlinehelp.tableau.com/current/server/en-us/trusted_auth.htm
+        - 3D Secure:
+            - https://www.youtube.com/watch?v=bSrw4o1Jy5E
+            - https://en.wikipedia.org/wiki/3-D_Secure
+        - The 'Basic' HTTP Authentication Scheme (Basic Auth)
+            - https://www.ibm.com/support/knowledgecenter/en/SSGMCP_5.1.0/com.ibm.cics.ts.internet.doc/topics/dfhtl2a.html
+            - Basic Password Exchange within the Flexible Authentication via Secure Tunneling Extensible Authentication Protocol (EAP-FAST): https://www.rfc-editor.org/info/rfc5421
+            - https://www.rfc-editor.org/info/rfc7617
+        - Digest Auth
+            - HTTP Digest Access Authentication (https://www.rfc-editor.org/info/rfc7616)
+        - OAuth (1.0, 2.0, differences between OAuth 1.0 and OAuth 2.0), Bearer Token
+            - The OAuth 2.0 Authorization Framework (https://oauth.net/2/)
+            - https://www.rfc-editor.org/info/rfc6749
+            - https://www.rfc-editor.org/info/rfc6750
+        - OpenID
+        - SAML
+        - Hawk Authentication???
+        - AWS Signature???
+        - NTLM Authentication???
+        - Kerberos (protocol)???
+        - Salted Challenge Response Authentication Mechanism (SCRAM) (https://www.rfc-editor.org/info/rfc7804)
+    - API
+        - Problem Details for HTTP APIs (https://www.rfc-editor.org/info/rfc7807)
+        - HATEOAS (https://en.wikipedia.org/wiki/HATEOAS)
+        - OpenAPI
+        - Tools:
+            - https://beeceptor.com/ (alternative to requestb.in: https://github.com/Runscope/requestbin#readme)
+            - http://httpbin.org/headers
+    - SSL
+        - Secure Sockets Layer (SSL) (https://www.geotrust.com/au/resources/whitepapers/pdfs/SSL_101_guide.pdf, )
+    - TLS
+        - Transport Layer Security (TLS) (https://en.wikipedia.org/wiki/Transport_Layer_Security)
+        - Application-Layer Protocol Negotiation (ALPN) (https://en.wikipedia.org/wiki/Application-Layer_Protocol_Negotiation)
+    - HTTPS
+        - HTTP Strict Transport Security (HSTS) ( https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/, https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security , https://tools.ietf.org/html/rfc6797 )
+    - X.509
+    - OpenSSL???
+    - Security in more details
+        - SCS: KoanLogic's Secure Cookie Sessions for HTTP (http://www.rfc-editor.org/info/rfc6896)
+        - TCP SYN Flooding Attacks and Common Mitigations (http://www.rfc-editor.org/info/rfc4987)
+    - Streaming?
+        - Models for HTTP-Adaptive-Streaming-Aware Content Distribution Network Interconnection (CDNI) (http://www.rfc-editor.org/info/rfc6983)
+        - HTTP Live Streaming (https://www.rfc-editor.org/info/rfc8216)
+    - PSR:
+        - https://inviqa.com/blog/introduction-psr-7-symfony
+        - PSR-7: HTTP Message Interface: https://www.php-fig.org/psr/psr-7
+        - PSR-13: Link definition interfaces: https://www.php-fig.org/psr/psr-13/
+        - PSR-15: HTTP Server Request Handlers: https://www.php-fig.org/psr/psr-15/
+    - PSR (drafts):
+        - PSR-17: HTTP Factories: https://github.com/php-fig/fig-standards/tree/master/proposed/http-factory/
+        - PSR-18: HTTP Client: https://github.com/php-fig/fig-standards/tree/master/proposed/http-client/
+    - Peer-to-peer (P2P)?
+        - Improving Peer Selection in Peer-to-peer Applications: Myths vs. Reality (http://www.rfc-editor.org/info/rfc6821)
+    - DNS?
+        - Clarifications and Implementation Notes for DNS Security (DNSSEC) (https://www.rfc-editor.org/info/rfc6840)
+    - HTTP Tests???
+    - Proxy???
+    - All other RFCs
+        - (lowest priority) https://www.rfc-editor.org/search/rfc_search_detail.php?pubstatus%5B%5D=Any&pub_date_type=any
+        - (low priority) All other HTTP-related RFCs: https://www.rfc-editor.org/search/rfc_search_detail.php?sortkey=Number&sorting=ASC&page=All&title=HTTP
+    - JSON:
+        - The JavaScript Object Notation (JSON) Data Interchange Format: https://www.rfc-editor.org/info/rfc8259
+        - ECMA-404 The JSON Data Interchange Standard: http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf
+        - JSON Schema (http://json-schema.org/)
+    - PHP (5,7):
+        - Superglobals: http://php.net/manual/en/language.variables.superglobals.php
+        - header: http://php.net/manual/en/function.header.php
+        - Streams: http://php.net/manual/en/book.stream.php
+        - Network functions: http://php.net/manual/en/ref.network.php
+        - URLs: http://php.net/manual/en/book.url.php
+        - JSON: http://php.net/manual/en/book.json.php
+    - Symfony:
+        - HttpFoundation (https://symfony.com/doc/current/components/http_foundation.html)
+- nmap (https://man.cx/nmap , https://nmap.org/download.html)
+- Symfony 4
+- The Twelve-Factor App (https://12factor.net/)
+- DevOps/CI/CD
+    - Vagrant
+    - Jenkins (https://jenkins.io/)
+    - Travis CI (https://travis-ci.org/)
+    - Capistrano
+    - Ansible
+    - Chef
+    - Puppet
+    - Docker
+        - Registry (https://cloud.docker.com/ and others)
+        - Kubernetes (https://kubernetes.io/ , https://cloud.google.com/kubernetes-engine/docs/tutorials/guestbook, https://cloud.google.com/php/tutorials/bookshelf-on-kubernetes-engine)
+    - Gitlab:
+        - https://docs.gitlab.com/ee/ci
+        - https://gitlab.com/gitlab-org/gitlab-ci-yml/blob/master/Docker.gitlab-ci.yml
+- QA/Testing
+    - Gherkin syntax: https://docs.cucumber.io/gherkin/reference/
+    - Zephyr - https://www.getzephyr.com/
+    - PHPSpec (https://www.phpspec.net/) - Intuitive unit testing with mocking 
+    - Behat - Functional testing
+    - Jmeter (https://jmeter.apache.org) - for thorough testing. Main tool.
+    - SIege (https://github.com/JoeDog/siege) - for quick load testing
+    - Bees with Machine Guns (https://github.com/newsapps/beeswithmachineguns) - for AWS testing.
+    - JMeter (https://jmeter.apache.org/)
+    - Codeception (https://codeception.com/)
+    - Selenium
+    - SonarQube (https://www.sonarqube.org/)
+    - Code reviews
+        - Github: https://github.com/features/code-review/
+        - Bitbucket: https://www.atlassian.com/git/tutorials/learn-about-code-review-in-bitbucket-cloud
+        - SmartGit's Distributed Reviews: https://www.youtube.com/watch?v=8eSjN3B6lm0
+        - Upsource: https://www.jetbrains.com/upsource/
+    - Acceptance tests:
+        - https://codeception.com/
+    - Methods/techniques/etc.:
+        - Requirements Traceability Matrix (RTM) / Simple traceability matrix (https://strongqa.com/qa-portal/testing-docs-templates/traceability-matrix , https://reqtest.com/requirements-blog/requirements-traceability-matrix/ , https://reqtest.com/requirements-blog/requirements-traceability-matrix/ )
+- Big O notation:
+    - (https://en.wikipedia.org/wiki/Big_O_notation)
+    - https://gist.github.com/brymck/8266276
+    - https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/analysis/example1.html
+- WebAssembly (https://webassembly.org/)
+- ??? PHP productivity tools. Covert Code to Diagrams, Graphs, other type of documentation:
+    - phUML
+        - `sudo apt install graphviz`
+        - `git clone https://github.com/jakobwesthoff/phuml`
+        - `cd phuml/src/app/`
+        - `./phuml -h`
+        - `./phuml -l`
+        - `./phuml -r /var/www/php_app_folder -graphviz -createAssociations false -neato output_image.png`
+    - UML Diagrams in PhpStorm (https://blog.jetbrains.com/phpstorm/2017/09/uml-diagrams-in-phpstorm-2017-2/)
+    - PhpDependencyAnalysis (https://github.com/mamuz/PhpDependencyAnalysis)
+    - ??? Bouml (https://www.bouml.fr)
+    - Doxygen (http://www.stack.nl/~dimitri/doxygen/)
+    - Docblox (https://github.com/dzuelke/Docblox)
+    - For Laravel: https://stimpack.io/
+- Monitoring:
+    - Zabbix (https://www.zabbix.com/)
+    - New Relic (https://newrelic.com/)
+    - CACTI (https://www.cacti.net/)
+    - Datadog (https://www.datadoghq.com/)
+    - Nagios (https://www.nagios.org/)
+    - Amazon CloudWatch (https://aws.amazon.com/cloudwatch/)
+- Writing Linux Device Driver (https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os , etc.)
+- Rocketeer (https://github.com/rocketeers/rocketeer)
+- IaaS
+    - serverless (https://serverless.com/)
+    - AWS:
+        - Amazon S3 (https://aws.amazon.com/s3/)
+        - Amazon Simple Queue Service (SQS) 
+        - Amazon Simple Notification Service (SNS)
+        - Amazon Kinesis (Streams)
+        - Amazon MQ
+        - AWS Elastic Beanstalk (https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
+        - others
+    - Microsoft Azure (https://azure.microsoft.com)
+- Postman (https://www.getpostman.com/)
+- Supervisor (http://supervisord.org)
+- Java
+    - Spring (https://spring.io/)
+- Internet Standards
+    - https://www.rfc-editor.org/search/rfc_search_detail.php?sortkey=Number&sorting=DESC&page=All&pubstatus%5B%5D=Standards%20Track&std_trk=Internet%20Standard
+    - Official Internet Protocol Standards (https://www.rfc-editor.org/standards)
+- Learning
+    - Mind maps by Tony Buzan (https://en.wikipedia.org/wiki/Mind_map)
+    - Leitner Flashcard System (https://en.wikipedia.org/wiki/Leitner_system , https://ankiweb.net)
+    - Spaced repetition:
+        - Richard Feynman learning technique: https://www.quora.com/What-is-the-Feynman-technique-in-detail , etc.
+        - Neural networks based: https://en.wikipedia.org/wiki/Artificial_neural_network
+    - Socratic method (https://en.wikipedia.org/wiki/Socratic_method , https://www.youtube.com/watch?v=_CPLu3qCbSU):
+        - Socratic questioning (https://en.wikipedia.org/wiki/Socratic_questioning)
+        - Socratic Circles (https://en.wikipedia.org/wiki/Socratic_method#Socratic_Circles)      
+    - Filling 30 minutes spot, presenting it to the person X (person X presents its 30 mins), 
+- Node Package Manager (NPM)
+- IBM WebSphere MQ (https://en.wikipedia.org/wiki/IBM_WebSphere_MQ)
+- cmake (https://cmake.org/)
+- Caddy server (https://caddyserver.com/)
+- Slim PHP Framework (https://www.slimframework.com/)
+- GZip (e.g. http://nginx.org/en/docs/http/ngx_http_gzip_module.html )
+- Time/task tracking:
+    - Pomodoro (https://en.wikipedia.org/wiki/Pomodoro_Technique)
+    - Toggl (https://toggl.com/)
+- PHP Internationalization Functions (intl) ( http://php.net/manual/en/book.intl.php )
+- Self-signed SSL for `.dev` domains on Ubuntu:
+    - https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/
+    - https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04
+- CakePHP (https://book.cakephp.org/2.0/en/index.html)
+- Building PHP from source
+- POSIX, POSIX signals
+- CLI program Confd (https://github.com/kelseyhightower/confd)
+- Consul (https://www.consul.io/ , manage key/values: http://localhost:8500/ui/#/dc1/kv/example.com/hostname/edit )
+- Etcd (https://github.com/coreos/etcd)
+- Redis (https://redis.io/)
+- TOML (https://github.com/toml-lang/toml)
+- GO (https://golang.org/)
+- POSIX
+- The Linux Kernel Organization
+- Rancher (http://rancher.com/)
+- Docker Swarm (https://docs.docker.com/engine/swarm/)
+- DNS records (e.g. DNS A record)
+- HAProxy (http://www.haproxy.org/)
+- High performance web (amount of queries, DDOS, etc.)
+- Vessel (https://vessel.shippingdocker.com/), a simple Docker development environment for Laravel
+- Google Cloud (https://cloud.google.com)
+- Swagger
+- Debugging:
+    - XDebug Debuging
+        - PHPStorm
+    - XDebug Profiling
+        - KCachegrind
+        - PHPStorm
+- ***
+- PHP 7.1, 7.2
+- Webpack
+- Yarn
+- ElasticSearch 5.5.3
+- InRiver (https://www.inriver.com/)
+- (Adobe XD)
+- (General Data Protection Regulation)
+- ORO https://oroinc.com/orocrm/doc/2.0/user-guide
+- ***
+- Databases
+    - PostgreSQL
+    - Aerospike
+    - Google Visualization API Query Language (https://developers.google.com/chart/interactive/docs/querylanguage)
+- Queues:
+    - RabbitMQ
+- Cache/etc.
+    - MemCache
+    - Varnish
+- ***
+- Pingdom (https://www.pingdom.com/)
+- LastPass (https://www.lastpass.com/)
+- ***
+- Browsers:
+    - https://www.brow.sh/
+    - https://github.com/mps-youtube/mps-youtube
+    - ...
+- Issue tracking, system health analyzis+:
+    - Rollbar (https://rollbar.com/)
+    - Dynatrace (https://www.dynatrace.com/solutions/)
+    - Elastic products (https://www.elastic.co/products): logstash, kibana, etc.
+- rkt (https://coreos.com/rkt/)
+- Graphviz (http://www.graphviz.org/)
+- Portable Operating System Interface (POSIX(R)): 
+    - http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/contents.html
+    - http://standards.ieee.org/findstds/standard/1003.1-2017.html
+- *-driven-development:
+    - DDD
+    - TDD
+- Design patterns & principles
+    - The eight books in the Center for Environmental Structure Series by Christopher Alexander and/or others:
+        - The Timeless Way of Building (volume 1)
+        - A Pattern Language: Towns, Buildings, Construction (volume 2) (https://en.wikipedia.org/wiki/A_Pattern_Language)
+        - The Oregon Experiment (volume 3) (https://en.wikipedia.org/wiki/The_Oregon_Experiment)
+        - The Production of Houses (volume 4)
+        - The Linz Café (volume 5)
+        - A New Theory of Urban Design (volume 6)
+        - A Foreshadowing of 21st Century Art (volume 7)
+        - The Mary Rose Museum (volume 8)
+    - A Pattern Language: Towns, Buildings, Construction by Christopher Alexander, Sara Ishikawa, Murray Silverstein 
+    - The Oregon Experiment by Christopher Alexander (https://en.wikipedia.org/wiki/The_Oregon_Experiment)
+    - Kent Beck and Ward Cunningham (http://c2.com/doc/index.html)
+    - Gang of Four (GoF): Design Patterns: Elements of Reusable Object-Oriented Software (https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
+    - Pattern-Oriented Software Architecture Volume 1: A System of Patterns (POSA) Books (https://www.amazon.com/gp/product/0471958697)
+    - Pattern Languages of Program Design 5 (PLOD 5) (http://www.amazon.com/gp/product/0321321944/)
+    - SOLID
+    - ...
+- Hierarchies / trees / nested sets ( https://en.wikipedia.org/wiki/Nested_set_model )
+- Agile
+    - General, 2018
+        - https://www.infoq.com/presentations/agile-2018
+    - Pair programming
+        - https://floobits.com/active    
+- Languages:
+    - Scratch (https://scratch.mit.edu/)
+    - JavaScript
+        - Patterns
+            - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+        - JavaScript module systems ( https://auth0.com/blog/javascript-module-systems-showdown/ )
+            - CommonJS
+            - Asynchronous Module Definition (AMD)
+                - RequireJS (https://requirejs.org/)
+                - Dojo (https://dojotoolkit.org/)
+            - ES2015
+        - Libraries
+            - Select2 (https://select2.org)
+            - Underscore.js (https://underscorejs.org/)
+        - Frameworks
+            - Node JS
+            - Vue.js
+            - React
+            - React Native
+            - Redux
+            - Backbone.js (http://backbonejs.org)
+        - Testing
+            - CasperJs (http://casperjs.org/)
+    - PHP
+        - Twig
+        - Silex
+        - Composer
+        - Zend Framework
+        - Wordpress
+    - SQL
+        - On PHP:
+            - ORM
+                - Doctrine (https://www.doctrine-project.org/)
+                - Eloquent (https://laravel.com/docs/5.6/eloquent)
+        - MySQL 5.7
+    - Quorum ( https://quorumlanguage.com/tutorials/language/casting.html ). Programing language for blind people, EVIDENCE based general programing language.
+    - ...
+- Social Media & Marketting
+    - Facebook
+    - Twitter
+    - Google
+        - Google Analytics & Google AdWords
+        
+- Career-related websites-profiles:
+    - Linkedin
+    - Stack Overflow
+    - Github
+    - ...
+- Tests to practice:
+    - Fizz Buzz Test: http://wiki.c2.com/?FizzBuzzTest  
+    
+
+# Categorization
+...
+
+## 1. Knowledge
+- know-how
+...
+
+## 2. Processes
+- ?analyse & improve processes and systems in a multitude of successful multinational corporations as well as start-ups
+- ?work in multinational company with lots of remote communication
+- ?scaling their teams up quite rapidly due to increased workload (e.g. "2017-18 they went from a workforce of 64 to 140")
+- ?expansion into Europe
+- ?complex problems solving
+- ?fail fast to innovate faster
+- ?collaboration
+- ?dev academy sessions
+- ?dev wiki
+- ?conferences
+- ?meetups
+...
+
+## 3. Skills (soft & hard?)
+- Attention to Detail
+- Logical and Structured Thinking
+- Thinking "out of the box"?
+- The ability to concentrate for long periods of time
+- An awareness and respect for confidentiality and data protection issues
+- The ability to thrive under pressure
+- The ability to work to tight deadlines (time-cost-scope - project management triangle)
+- The ability to explain complicated processes in non-technical language
+- The ability to compose a general to-the-point question out of complex and specific business issue. This is later going to communication channels in order to ask for help.
+- Good team working abilities
+- A good understanding of customer care
+- Excellent communication skills, both written and verbal: English
+- Public speaking: on conferences, teaching sessions, etc.
+- Initiative and willingness to learn new technologies and skills
+- Proactiveness. Communicating improvements after a demo/mock/variant/concept of the improvement is already available.
+- ...
+- Mozilla shortcuts: 
+    - https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
+    - https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/Keyboard_shortcuts
+- http://devtoolsecrets.com/
+- ...
+
+
+## 4. Tools
+- [Enterprise Architect](http://sparxsystems.com/products/ea/)
+- https://appear.in/
+- https://www.toadworld.com/
+- ...
+
+## 5. Techniques
+- ?SCRUM
+...
+
+# Values to apply
+- Beauty / Grožis / Schönheit
+- Faith / Tikėjimas / Glaube
+- Fame / Šlovė / Ruhm
+- Family / Šeima
+- Freedom / Laisvė / Freiheit
+- Knowledge / Žinios / Wissen
+- Love / Meilė
+- Pleasure / Malonumas / Wollust
+- Power / Galia / Macht
+- Progress / Pažanga / Fortschritt
+- Time / Laikas
+- Wealth / Turtas / Reichtum
+- Youth / Jaunytsė / Jugend
+
+# Podcasts
+- http://www.se-radio.net
+- ("Soft skills", not technical, not sure if this should be here..) https://samharris.org/podcasts/127-freedom-known/
+
+# Conferences
+- Pattern Languages of Programs (http://www.europlop.net/), (http://hillside.net/conferences/europlop)
+
+# Day and activities planning:
+- https://valentinathoerner.com/blog/agenda-think/
+- https://m.signalvnoise.com/whats-the-best-use-of-a-leader-s-time-758c10a69228
+
+# Certifications missing
+- CompTIA
+    - A+ (https://certification.comptia.org/certifications/a)
+    - Cloud Essentials (https://certification.comptia.org/certifications/cloud-essentials)
+    - Network+
+    - Linux+/LPIC-1
+    - Cloud+
+    - Server+ ???
+    - Security+
+    - CySA+ ??? 
+    - CASP ???
+    - PenTest+ ???
+    - Project+ ???
+    - CTT+ ???
+    - ...
+- Symfony: https://certification.symfony.com/
+- Akeneo PIM: https://www.akeneo.com/certification/
+- OMG Certified UML Professional 2™ (OCUP 2™): 
+    - Foundation Level (http://www.omg.org/ocup-2/coveragemap-found.htm)
+    - Intermediate Level (http://www.omg.org/ocup-2/coveragemap-intermed.htm)
+    - Advanced Level (http://www.omg.org/ocup-2/coveragemap-advanced.htm)
+- Amazon AWS (https://aws.amazon.com/certification/)
+- Docker Certification (https://success.docker.com/certification)
+- Laravel: https://laravel.com/certification/prepare/
+- MangoDB: 
+    - MongoDB Certified Developer Associate ???
+-  LPI
+    - LPIC-2
+    - LPIC-3
+- Oracle
+    - MySQL
+    - Java
+    
+# Books
+- https://itrevolution.com/book/accelerate/
+
+# Other sets of recommendations, instructions, etc.
+- http://hashphp.org/
