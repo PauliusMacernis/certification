@@ -298,6 +298,7 @@
         - https://docs.gitlab.com/ee/ci
         - https://gitlab.com/gitlab-org/gitlab-ci-yml/blob/master/Docker.gitlab-ci.yml
 - QA/Testing
+    - endtest: https://endtest.io/  
     - Gherkin syntax: https://docs.cucumber.io/gherkin/reference/
     - Zephyr - https://www.getzephyr.com/
     - PHPSpec (https://www.phpspec.net/) - Intuitive unit testing with mocking 
