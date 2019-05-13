@@ -280,6 +280,8 @@
         - JSON: http://php.net/manual/en/book.json.php
     - Symfony:
         - HttpFoundation (https://symfony.com/doc/current/components/http_foundation.html)
+- SEO
+    - robots.txt: http://www.robotstxt.org/
 - nmap (https://man.cx/nmap , https://nmap.org/download.html)
 - Symfony 4
 - The Twelve-Factor App (https://12factor.net/)
