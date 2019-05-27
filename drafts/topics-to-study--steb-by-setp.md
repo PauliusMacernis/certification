@@ -14,6 +14,12 @@
     - Occam's razor (https://michaellant.com/2010/08/10/occams-razor-and-the-art-of-software-design/)
     - The Principle of Parsimony: "The use of the simplest or most frugal route of explanation available" (https://en.wikipedia.org/wiki/Parsimony)
     - Conway's law (https://en.wikipedia.org/wiki/Conway%27s_law)
+    - DRY (https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+    - KISS (https://en.wikipedia.org/wiki/KISS_principle)
+    - SOLID (https://en.wikipedia.org/wiki/SOLID)
+    - YAGNI (https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+    - GRASP (https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+    - Object Calisthenics (https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf)
 - Math or so
     - Math in plain text (e.g. https://pages.uoregon.edu/ncp/Courses/MathInPlainTextEmail.html )
     - Numerical differentiation, Symbolic differentiation, Automatic differentiation (https://stackoverflow.com/questions/43455320/difference-between-symbolic-differentiation-and-automatic-differentiation)
