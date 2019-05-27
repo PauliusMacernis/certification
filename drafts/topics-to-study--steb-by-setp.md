@@ -20,6 +20,7 @@
     - YAGNI (https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
     - GRASP (https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
     - Object Calisthenics (https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf)
+    - Poka-yoke (https://en.wikipedia.org/wiki/Poka-yoke)
 - Math or so
     - Math in plain text (e.g. https://pages.uoregon.edu/ncp/Courses/MathInPlainTextEmail.html )
     - Numerical differentiation, Symbolic differentiation, Automatic differentiation (https://stackoverflow.com/questions/43455320/difference-between-symbolic-differentiation-and-automatic-differentiation)
