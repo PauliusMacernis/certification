@@ -29,6 +29,10 @@
     - Stateful vs. stateless (e.g. https://whatis.techtarget.com/definition/stateless)
     - Partial-order planning vs. total-order planning (e.g. https://en.wikipedia.org/wiki/Partial-order_planning)
     - Von Neumann architecture (https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+    - Instruction set architectures:
+        - RISC - Reduced instruction set computer: https://en.wikipedia.org/wiki/Reduced_instruction_set_computer
+        - CISC - Complex instruction set computer: https://en.wikipedia.org/wiki/Complex_instruction_set_computer
+        - OISC/URISC - One instruction set computer / Ultimate reduced instruction set computer : https://en.wikipedia.org/wiki/One_instruction_set_computer
     - ETL applications
 - Standard for Floating-Point Arithmetic:
     - IEEE 754 standard (https://ieeexplore.ieee.org/document/4610935/)
