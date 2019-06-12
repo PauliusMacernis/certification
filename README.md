@@ -18,6 +18,17 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 
 ![Image of so known Mozilla engineer track](https://github.com/sugalvojau/certification/raw/master/images/engineer_track_large.jpeg)
 
+## Software Engineer 0 (P0) - Pre-Junior Software Engineer
+
+- [ACT, Inc.](https://www.act.org/)
+  - [ACT](http://www.act.org/content/act/en/products-and-services/the-act.html) [*](https://en.wikipedia.org/wiki/ACT_(test))
+
+- [College Board](https://www.collegeboard.org/)
+  - [SAT](http://sat.collegeboard.org/) [*](https://en.wikipedia.org/wiki/SAT)
+
+- [Harcourt Assessment (a division of Pearson Education)](http://pearsoned.com/)
+  - [Miller Analogies Test (MAT)](http://www.milleranalogies.com/) [*](https://en.wikipedia.org/wiki/Miller_Analogies_Test)
+
 ## Software Engineer 1 (P1) - Junior Software Engineer
 |  |  |
 | --- | --------- |
@@ -34,14 +45,6 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 | **Evaluation** | Manager |
 
 
-- [ACT, Inc.](https://www.act.org/)
-  - [ACT](http://www.act.org/content/act/en/products-and-services/the-act.html) [*](https://en.wikipedia.org/wiki/ACT_(test))
-
-- [College Board](https://www.collegeboard.org/)
-  - [SAT](http://sat.collegeboard.org/) [*](https://en.wikipedia.org/wiki/SAT)
-
-- [Harcourt Assessment (a division of Pearson Education)](http://pearsoned.com/)
-  - [Miller Analogies Test (MAT)](http://www.milleranalogies.com/) [*](https://en.wikipedia.org/wiki/Miller_Analogies_Test)
 
 - [AXELOS](https://www.axelos.com/)
   - [ITIL 4](https://www.axelos.com/certifications/itil-certifications)
