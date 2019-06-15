@@ -363,6 +363,7 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 - Akeneo: https://www.akeneo.com/certification/  
 - Magento: https://u.magento.com/certification  
 - Anti-IF: https://francescocirillo.com/products/licensed-anti-if-trainer  
+- Acquiros, APMG, BCS, EXIN, Loyalist
 
 
 # Checked
