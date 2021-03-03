@@ -27,3 +27,10 @@ Duration: 1.5 or 2 hours
 ### Prerequisites
 
 - Akeneo project experience
+
+## Topics 2 study
+
+- [help.akeneo.com](https://help.akeneo.com/)
+  - "coding around"
+    - API: https://api.akeneo.com/
+    - Technical docs: https://docs.akeneo.com/latest/index.html
