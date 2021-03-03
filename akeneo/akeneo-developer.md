@@ -17,6 +17,7 @@ Duration: 1.5 or 2 hours
 - Knowledge of Symfony
 - Release notes to be aware of every new feature
 - [Akeneo implementation specialist certification](https://github.com/PauliusMacernis/certification/blob/master/akeneo/akeneo-implementation-specialist.md)
+- Recommendations regarding the use of **native features** and the **implementation of custom features**
 - Akeneo PIM installation and infrastructure
 - APIs
 - Reference data and other entities
