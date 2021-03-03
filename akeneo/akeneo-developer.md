@@ -16,6 +16,7 @@ Duration: 1.5 or 2 hours
 - PHP OOP
 - Knowledge of Symfony
 - Release notes to be aware of every new feature
+- [Akeneo implementation specialist certification](https://github.com/PauliusMacernis/certification/blob/master/akeneo/akeneo-implementation-specialist.md)
 - Akeneo PIM installation and infrastructure
 - APIs
 - Reference data and other entities
