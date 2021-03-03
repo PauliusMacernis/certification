@@ -14,7 +14,7 @@ Online option exists via Kryterion's https://www.webassessor.com/
 
 - Efficiently **align business objectives with Akeneo PIM's features**, through the use of **native features** and **avoiding unnecessary customizations**.
 
-### 50%: 50 Multiple Choice Questions
+### 50%: 50 Multiple Choice Questions (advice: spend up to 1 hour, up to 45 mins is even better)
 
 - ergonomics
 - definition and use of entities
