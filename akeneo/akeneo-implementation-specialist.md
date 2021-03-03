@@ -26,7 +26,7 @@ Online option exists via Kryterion's https://www.webassessor.com/
 - reference entities
 - Release notes to be aware of every new feature
 
-### 50%: Two case studies ("the situation as if you would be in front of a customer")
+### 50%: Two case studies ("situations as if you would be in front of a customer")
 
 1. Audit like
 2. Baseline to structure a catalogue + design enrichment workflow/team organization
