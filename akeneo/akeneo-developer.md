@@ -12,7 +12,7 @@ Online option exists via Kryterion's https://www.webassessor.com/
 
 ## Objectives
 
-65%: 50 Multiple Choice Questions (advice: spend up to 1 hour, up to 45 mins is even better)
+65%: 50 Multiple Choice Questions (advice: spend up to 1 hour, up to 45 mins is even better)  
 35%: Code to be written  
 
 - PHP OOP
