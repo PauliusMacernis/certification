@@ -6,6 +6,8 @@ Versions: CE + EE, both latest LTS
 Price: $350 / 350€   
 Renewal: Every LTS version  
 Duration: 1.5 or 2 hours  
+Test center: https://www.kryteriononline.com/Locate-Test-Center  
+Online option exists via Kryterion's https://www.webassessor.com/
 
 
 ## Objectives
