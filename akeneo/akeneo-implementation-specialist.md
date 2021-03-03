@@ -28,9 +28,8 @@ Online option exists via Kryterion's https://www.webassessor.com/
 
 ### 50%: Two case studies
 
-#### 1. Audit like
-
-#### 2. Baseline to structure a catalogue + design enrichment workflow/team organization
+1. Audit like
+2. Baseline to structure a catalogue + design enrichment workflow/team organization
 
 
 ### Prerequisites
