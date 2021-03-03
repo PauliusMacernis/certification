@@ -10,6 +10,8 @@ Duration: 2 hours
 
 ## Objectives
 
+- Efficiently **align business objectives with Akeneo PIM's features**, through the use of **native features** and **avoiding unnecessary customizations**.
+
 ### 50%: 50 Multiple Choice Questions
 
 - ergonomics
