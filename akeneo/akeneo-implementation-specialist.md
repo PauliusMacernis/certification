@@ -3,7 +3,9 @@
 https://www.akeneo.com/certification/   
 Passing score: 80%   
 Versions: CE + EE, both latest LTS   
-Price: $350 / 350€   
+Price: $350 / 350€  
+Renewal: Every LTS version  
+Duration: 2 hours  
 
 
 ## Objectives
