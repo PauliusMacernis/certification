@@ -40,6 +40,4 @@ Duration: 2 hours
 - [help.akeneo.com](https://help.akeneo.com/)
   - "using the pim": https://help.akeneo.com/pim/serenity/themes-for-julia.html
   - "setting up the pim": https://help.akeneo.com/pim/serenity/themes-for-peter.html
-  - "coding around"
-    - API: https://api.akeneo.com/
-    - Technical docs: https://docs.akeneo.com/latest/index.html
+
