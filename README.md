@@ -366,6 +366,7 @@ It is up to you to skip some steps from the mentioned bellow, or follow along. E
 - Acquiros, APMG, BCS, EXIN, Loyalist
 - Atlasian, Jira: https://www.atlassian.com/university/certification  
 - IBM: https://www.ibm.com/certify/certs.html  
+- Natural languages, you need to communicate well: https://en.wikipedia.org/wiki/List_of_language_proficiency_tests
 
 
 
